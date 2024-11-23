@@ -1,1 +1,18 @@
-/* Start coding here */
+@font-face {
+    font-family: 'iannnnnCPU';
+    src: url('./fonts/2005_iannnnnCPU.ttf') format('truetype');
+}
+
+body {
+    font-family: 'iannnnnCPU', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'iannnnnCPU', sans-serif;
+}
+
+p {
+    font-family: 'iannnnnCPU' sans-serif;
+}
